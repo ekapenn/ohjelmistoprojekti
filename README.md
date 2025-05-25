@@ -40,4 +40,4 @@ Käytin avuksi projektin aikana opintojakson ja MOOC:in materialeja.
 - [Python Tutorial](https://www.w3schools.com/python/python_intro.asp)
 
 Tässä prjoektissa on käytetty ChatGPT:tä tekstin kieliasun muokkaamiseen ja tekstin sujuvoittamiseen. 
-Käytin tekoälyä myös tekstien luomiseen, esim. eri treenivaihtoehtojen ehdottamiseen ja vedenmäärän kaavan laskemiseen. Pyysin apua, kun kohtasin ongelman koodin kanssa. Sen avulla työ eteni eikä pysähtynyt. 
+Käytin tekoälyä(ChatGPT:tä) myös tekstien luomiseen, esim. eri treenivaihtoehtojen ehdottamiseen ja vedenmäärän kaavan laskemiseen. Pyysin apua, kun kohtasin ongelman koodin kanssa. Sen avulla työ eteni eikä pysähtynyt.
