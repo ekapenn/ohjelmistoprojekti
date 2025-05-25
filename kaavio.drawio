@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15" version="27.0.8">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15" version="27.0.9">
   <diagram name="Sivu-1" id="BHcu0ms929qGW9cuDSSE">
-    <mxGraphModel dx="842" dy="611" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="842" dy="611" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,7 +19,7 @@
         <mxCell id="N0albN0jINHC4ia6SpSg-5" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;mikä taso?&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: &amp;quot;Helvetica Neue&amp;quot;;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;aloittelija / keskitaso / edistynyt&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="319" y="360" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="N0albN0jINHC4ia6SpSg-8" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;mieltymys&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Helvetica Neue&amp;quot;;&quot;&gt;kardiotreeni / voimaharjoittelu / venyttely&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="N0albN0jINHC4ia6SpSg-8" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;mieltymys&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Helvetica Neue&amp;quot;;&quot;&gt;kardio / voimaharjoittelu / venyttely&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="319" y="460" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="N0albN0jINHC4ia6SpSg-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
@@ -130,7 +130,7 @@
         <mxCell id="N0albN0jINHC4ia6SpSg-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="N0albN0jINHC4ia6SpSg-43" target="N0albN0jINHC4ia6SpSg-39" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="N0albN0jINHC4ia6SpSg-43" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Tulos:&lt;/font&gt;&lt;div&gt;&lt;div style=&quot;white-space: nowrap;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Nimi&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;white-space: nowrap;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Taso&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;white-space: nowrap;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Treeniohjelma&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;white-space: nowrap;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Veden suositus&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="N0albN0jINHC4ia6SpSg-43" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Tulos:&lt;/font&gt;&lt;div&gt;&lt;div style=&quot;white-space: nowrap;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Nimi&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;white-space: nowrap;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Tavoite&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;white-space: nowrap;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Taso&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;white-space: nowrap;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Treeniohjelma&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;white-space: nowrap;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Veden suositus&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="299" y="790" width="200" height="90" as="geometry" />
         </mxCell>
         <mxCell id="N0albN0jINHC4ia6SpSg-46" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;startArrow=classic;startFill=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashPattern=8 8;" parent="1" target="N0albN0jINHC4ia6SpSg-29" edge="1">
