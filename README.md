@@ -2,7 +2,7 @@
 Personal FitPlan, Ekaterina Pennonen ja tein sen yksin.
 
 ## Demo-linkki:  
-Pääset sivustolleni osoitteessa [youtube.com](https://www.youtube.com/watch?v=sYjKBNp04XA)
+Pääset katsomaan sen osoitteessa [youtube.com](https://www.youtube.com/watch?v=sYjKBNp04XA)
 
 ## Tietoa sovelluksesta  
 Personal FitPlan on sovellus, joka auttaa käyttäjää valitsemaan henkilökohtaisen treenisuunnitelman ja laskemaan suositellun päivittäisen vesimäärän omien tietojen perusteella.
